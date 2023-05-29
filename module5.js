@@ -22,4 +22,4 @@ readFile('./content/first.txt','utf-8',(err,result) => {
         })
     })
 })
-console.log('start the next one')
+// console.log('start the next one')
